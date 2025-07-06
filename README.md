@@ -10,12 +10,12 @@
 ---
 
 📰 The Token Wars: When AI Speaks Its Own Language
-═══════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════
 
 *After watching Reddit's violent reaction to an AI-first programming language, I decided to run my own experiment: what if we went even further? Instead of just AI-optimized programming languages, what would an AI design for direct AI-to-AI communication beyond human language entirely? After 19 iterations of collaborative development with Claude, we've designed what we call the GHOST protocol. This represents experimental AI system thinking about the future of machine communication.*
 
 📋 EXECUTIVE SUMMARY: TL;DR FOR BUSY EXECUTIVES
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
 
 **THE REDDIT INSPIRATION**: Watching an AI programming language experiment trigger community backlash made me wonder: what about pure AI-to-AI communication?
 
